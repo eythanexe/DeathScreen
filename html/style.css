@@ -22,23 +22,6 @@ body {
     z-index: 1000;
 }
 
-@keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-}
-
-@keyframes pulse {
-    0% { text-shadow: 0 0 10px rgba(255, 0, 0, 0.5); }
-    50% { text-shadow: 0 0 20px rgba(255, 0, 0, 0.8); }
-    100% { text-shadow: 0 0 10px rgba(255, 0, 0, 0.5); }
-}
-
-@keyframes shake {
-    0%, 100% { transform: translateX(0); }
-    10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
-    20%, 40%, 60%, 80% { transform: translateX(5px); }
-}
-
 h1 {
     font-size: 64px;
     color: #ff0000;
@@ -80,4 +63,21 @@ p {
     padding: 2px 8px;
     border-radius: 4px;
     font-weight: bold;
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes pulse {
+    0% { text-shadow: 0 0 10px rgba(255, 0, 0, 0.5); }
+    50% { text-shadow: 0 0 20px rgba(255, 0, 0, 0.8); }
+    100% { text-shadow: 0 0 10px rgba(255, 0, 0, 0.5); }
+}
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
+    20%, 40%, 60%, 80% { transform: translateX(5px); }
 }
