@@ -16,7 +16,7 @@ TriggerEvent('deathscreen:hideUI')
 - My Discord Name: eythan.exe
 - My Discord ID: 868540978871566387
 
-preview:
+# Preview:
 
 ![image](https://github.com/user-attachments/assets/54b4ef80-edd3-4d77-9c87-a93b4a471283)
 
