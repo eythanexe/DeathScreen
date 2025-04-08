@@ -1,4 +1,4 @@
-# Death Screen
+# DeathScreen
 
 # Information:
 this is A nice death screen for those who want something new and special.
