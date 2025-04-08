@@ -18,4 +18,5 @@ TriggerEvent('deathscreen:hideUI')
 
 preview:
 
-https://cdn.discordapp.com/attachments/1212632942803685376/1355446612037472386/image.png?ex=67e8f587&is=67e7a407&hm=5e37c5655c6cad700c63043819a5256bf0fbd4e80b5c194e477d092d51cc879b&
+![image](https://github.com/user-attachments/assets/54b4ef80-edd3-4d77-9c87-a93b4a471283)
+
