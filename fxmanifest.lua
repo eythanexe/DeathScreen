@@ -3,7 +3,7 @@ game ({ 'gta5' })
 
 author 'Eythan'
 
-description 'Simple Death Screen.'
+description 'Simple Death Screen'
 
 client_scripts ({
     'Config.lua',
